@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 emoji = "*"
-pyfiglet = "*"
+art = "*"
 
 [requires]
 python_version = "3.7"
