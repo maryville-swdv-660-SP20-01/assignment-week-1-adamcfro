@@ -1,11 +1,12 @@
-# import dependencies
+# used to add emojis to program
 import emoji
-import pyfiglet
+# used to add ascii-style letters to program
+from art import *
 
-# Create a banner that displays a welcome message
-banner = pyfiglet.figlet_format("Hello there!")
+# # Create a banner that displays a welcome message
+art_piece = text2art("Hello There!")
 
-print(f"{banner}\nWelcome to the Body Mass Index Calculator!\n")
+print(f"{art_piece}\nWelcome to the Body Mass Index Calculator!\n")
 
 # get weight and inches to compute BMI
 weight = int(input("What is your weight in pounds? "))
