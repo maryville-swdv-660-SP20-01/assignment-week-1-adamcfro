@@ -7,8 +7,9 @@ The program will then calculate and display the BMI for the given input.
 
 
 ### Packages Used
-    Emoji for Python - https://pypi.org/project/emoji/
-    ASCII Art Library For Python - https://pypi.org/project/art/
+
+Emoji for Python - https://pypi.org/project/emoji/
+ASCII Art Library For Python - https://pypi.org/project/art/
 
 ### Installation
 
